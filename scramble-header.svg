@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160" role="img" aria-label="Olá, eu sou o Raylan">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      .border { fill: none; stroke: #262626; stroke-width: 1.5; }
+      .dot { opacity: .9 }
+      .label { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; font-size: 12px; fill: #828282; letter-spacing: .02em; }
+      .prompt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; font-size: 34px; font-weight: 500; fill: #3ce085; }
+      .noiseglyph { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; font-size: 34px; font-weight: 500; fill: #828282; }
+      .realglyph { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; font-size: 34px; font-weight: 500; fill: #ffffff; }
+      .caret { fill: #ffffff; }
+      .hint { font-family: Inter, Helvetica, Arial, sans-serif; font-size: 12px; fill: #6f6e68; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="1" y="1" width="898" height="158" rx="14"/>
+  <rect class="border" x="1" y="1" width="898" height="158" rx="14"/>
+
+  <circle class="dot" cx="28" cy="28" r="6" fill="#ff5f56"/>
+  <circle class="dot" cx="48" cy="28" r="6" fill="#ffbd2e"/>
+  <circle class="dot" cx="68" cy="28" r="6" fill="#27c93f"/>
+  <text class="label" x="90" y="32">raylan@github — zsh</text>
+
+  <text class="prompt" x="227.6" y="92">&gt;</text>
+
+  <text x="256.2" y="92" class="noiseglyph" id="nc0">p
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0000;0.0250;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="276.6" y="92" class="noiseglyph" id="nc1">J
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0000;0.0390;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="297.0" y="92" class="noiseglyph" id="nc2">H
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0051;0.0531;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="317.4" y="92" class="noiseglyph" id="nc3">L
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0191;0.0671;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="358.2" y="92" class="noiseglyph" id="nc5">e
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0472;0.0952;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="378.6" y="92" class="noiseglyph" id="nc6">H
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0612;0.1092;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="419.4" y="92" class="noiseglyph" id="nc8">y
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0893;0.1373;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="439.8" y="92" class="noiseglyph" id="nc9">R
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1033;0.1513;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="460.2" y="92" class="noiseglyph" id="nc10">&lt;
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1174;0.1654;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="501.0" y="92" class="noiseglyph" id="nc12">N
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1454;0.1934;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="541.8" y="92" class="noiseglyph" id="nc14">&gt;
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1735;0.2215;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="562.2" y="92" class="noiseglyph" id="nc15">%
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1875;0.2355;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="582.6" y="92" class="noiseglyph" id="nc16">7
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2016;0.2496;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="603.0" y="92" class="noiseglyph" id="nc17">f
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2156;0.2636;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="623.4" y="92" class="noiseglyph" id="nc18">m
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2296;0.2776;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text><text x="643.8" y="92" class="noiseglyph" id="nc19">5
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2437;0.2917;1" values="0.55;0.55;0;0" calcMode="discrete"/>
+    </text>
+  <text x="256.2" y="92" class="realglyph" id="rc0">O
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0250;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="276.6" y="92" class="realglyph" id="rc1">l
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0390;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="297.0" y="92" class="realglyph" id="rc2">á
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0531;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="317.4" y="92" class="realglyph" id="rc3">,
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0671;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="358.2" y="92" class="realglyph" id="rc5">e
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.0952;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="378.6" y="92" class="realglyph" id="rc6">u
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1092;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="419.4" y="92" class="realglyph" id="rc8">s
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1373;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="439.8" y="92" class="realglyph" id="rc9">o
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1513;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="460.2" y="92" class="realglyph" id="rc10">u
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1654;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="501.0" y="92" class="realglyph" id="rc12">o
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.1934;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="541.8" y="92" class="realglyph" id="rc14">R
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2215;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="562.2" y="92" class="realglyph" id="rc15">a
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2355;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="582.6" y="92" class="realglyph" id="rc16">y
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2496;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="603.0" y="92" class="realglyph" id="rc17">l
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2636;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="623.4" y="92" class="realglyph" id="rc18">a
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2776;1" values="0;0;1" calcMode="discrete"/>
+    </text><text x="643.8" y="92" class="realglyph" id="rc19">n
+      <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+        keyTimes="0;0.2917;1" values="0;0;1" calcMode="discrete"/>
+    </text>
+
+  <rect class="caret" x="668.2" y="65" width="14" height="34" rx="2">
+    <animate attributeName="opacity" dur="6.0s" repeatCount="indefinite"
+      keyTimes="0;0.2917;0.3117;0.62;0.65;0.78;0.81;0.94;0.97;1"
+      values="0;0;1;1;0;0;1;1;0;0" calcMode="discrete"/>
+  </rect>
+
+  <text class="hint" x="450.0" y="146" text-anchor="middle">passe o mouse ou recarregue a página para ver o efeito decodificar novamente</text>
+</svg>
