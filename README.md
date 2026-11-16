@@ -42,17 +42,16 @@
 
 ### 🚀 Principais Projetos em Destaque
 
-- 🍔 **[RGM Pedidos](https://github.com/RaylanGabriel/rgm-pedidos)** — Plataforma de cardápio digital e gerenciamento de pedidos e combos.
-- 🥗 **[MyDiet](https://github.com/RaylanGabriel/mydiet)** — App de acompanhamento nutricional (baseado nas tabelas TACO/TBCA e análise por IA) e divisão de treinos (A/B/C).
-- 🎟️ **[RifaSorte](https://sistema-rifas-sorte.vercel.app/)** — Sistema de rifas solidárias e crowdfunding humanizado com gestão de reservas em tempo real.
-- 🍀 **[SmartLucky](https://github.com/RaylanGabriel/smartlucky)** — Aplicação web desenvolvida em TypeScript.
-- 🎓 **[Educonnect](https://github.com/RaylanGabriel/Educonnect)** — Projeto de imersão profissional construído em Java.
+- 🍔 <a href="https://github.com/RaylanGabriel/rgm-pedidos"><img src="https://img.shields.io/badge/RGM%20Pedidos-2b2b2b?style=flat-square" alt="RGM Pedidos"/></a> — Plataforma de cardápio digital e gerenciamento de pedidos e combos.
+- 🥗 <a href="https://github.com/RaylanGabriel/mydiet"><img src="https://img.shields.io/badge/MyDiet-2b2b2b?style=flat-square" alt="MyDiet"/></a> — App de acompanhamento nutricional (baseado nas tabelas TACO/TBCA e análise por IA) e divisão de treinos (A/B/C).
+- 🎟️ <a href="https://sistema-rifas-sorte.vercel.app/"><img src="https://img.shields.io/badge/RifaSorte-2b2b2b?style=flat-square" alt="RifaSorte"/></a> — Sistema de rifas solidárias e crowdfunding humanizado com gestão de reservas em tempo real.
+- 🍀 <a href="https://github.com/RaylanGabriel/smartlucky"><img src="https://img.shields.io/badge/SmartLucky-2b2b2b?style=flat-square" alt="SmartLucky"/></a> — Aplicação web desenvolvida em TypeScript.
+- 🎓 <a href="https://github.com/RaylanGabriel/Educonnect"><img src="https://img.shields.io/badge/Educonnect-2b2b2b?style=flat-square" alt="Educonnect"/></a> — Projeto de imersão profissional construído em Java.
 
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaylanGabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylanGabriel&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=RaylanGabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 📫 Vamos nos Conectar!
