@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./scramble-header.svg" alt="Olá, eu sou o Raylan Miranda" width="800" />
+  <img src="./scramble-header.gif" alt="Olá, eu sou o Raylan Miranda" width="800" />
 </p>
 
 <h2 align="center">Olá 👋</h2>
