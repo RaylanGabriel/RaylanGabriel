@@ -15,7 +15,7 @@
 ### Sobre Mim
 
 - 🖥️ Técnico de suporte na **Call ECG Serviços de Telemedicina**
-- 💻 Desenvolvedor web freelancer — **React, Next.js, TypeScript e Supabase**
+- 💻 Desenvolvedor web freelancer — **React, Next.js, TypeScript**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista em 2027)
 - 🚀 Sempre em busca de novos desafios e aprendizados em tecnologia
 
